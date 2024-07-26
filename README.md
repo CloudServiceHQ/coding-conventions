@@ -1,1 +1,1 @@
-# code-conventions
+# conventions
